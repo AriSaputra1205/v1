@@ -26,7 +26,7 @@ clear
 clear && clear && clear
 clear;clear;clear
 echo -e "${BlueBee}╔════════════════════════════════════════════════╗${NC}"
-echo -e "\033[96;1m              ARI SUMSEL TUNNELING PROJECT              \033[0m"
+echo -e "\033[96;1m                   SUMSEL TUNNELING PROJECT              \033[0m"
 echo -e "${BlueBee}╚════════════════════════════════════════════════╝${NC}"
 echo ""
 echo ""
